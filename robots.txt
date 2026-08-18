@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-bsg42r.koi888win.online/sitemap.xml
